@@ -1,5 +1,5 @@
--这是收集来的一些中国古风的色彩以及RGB值<br/>
--希望以后可以用作我的个人博客配色
+**-这是收集来的一些中国古风的色彩以及RGB值<br/>**
+**-希望以后可以用作我的个人博客配色**
 > ![](https://github.com/riverde123/Ancient-color/blob/master/color/1.jpg)  
 > ![](https://github.com/riverde123/Ancient-color/blob/master/color/2.jpg)  
 > ![](https://github.com/riverde123/Ancient-color/blob/master/color/3.jpg)  
